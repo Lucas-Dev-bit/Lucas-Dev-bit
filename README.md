@@ -3,6 +3,7 @@
 
 - 🔭 Em transição de carreira...
 - 🌱 Estou aprendendo PHP...
+- 💻 https://www.linkedin.com/in/lucas-claro-b7071b145/
 
 ##
 <div>
