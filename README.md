@@ -6,6 +6,9 @@
 
 ![Lucas-Dev-bit GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Dev-bit&show_icons=true&theme=onedark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Dev-bit&exclude_repo=github-readme-stats,Lucas-Dev-bit.github.io)](https://github.com/Lucas-Dev-bit)
+
+
 ## Tecnologias que uso
 <div style="display: inline-block"><br/>
     <img algin="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
