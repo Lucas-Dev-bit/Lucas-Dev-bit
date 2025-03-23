@@ -8,11 +8,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luc_claro/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-claro-b7071b145/)
 
-////![Lucas-Dev-bit GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Dev-bit&show_icons=true&theme=onedark)
-
-///[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Dev-bit&exclude_repo=github-readme-stats,Lucas-Dev-bit.github.io)](https://github.com/Lucas-Dev-bit)
-
-
 ## Tecnologias que uso
 <div style="display: inline-block"><br/>
     <img algin="center" alt="CSharp" src="https://img.shields.io/badge/CSharp-E34F26?style=for-the-badge&logo=html5&logoColor=white">
