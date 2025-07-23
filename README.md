@@ -1,7 +1,7 @@
 # Olá! Eu sou o Lucas!🙋‍♂️
 </br>
 
-## Atualmente estou envolvido em um projeto .NET CSharp. 
+## Atualmente estou envolvido em um projeto C# .NET 
 </br>
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lucas.claro.982)
