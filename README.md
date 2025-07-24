@@ -1,13 +1,13 @@
 # Olá! Eu sou o Lucas!🙋‍♂️
 </br>
 
-## Atualmente em formação como Desenvolvedor C# com foco em aplicações Desktop e Web, venho construindo uma base sólida em programação orientada a objetos, banco de dados SQL Server e desenvolvimento de API REST com ASP.NET Core.
+# Atualmente em formação como Desenvolvedor C# com foco em aplicações Desktop e Web, venho construindo uma base sólida em programação orientada a objetos, banco de dados SQL Server e desenvolvimento de API REST com ASP.NET Core.
 
 Estou participando da criação de um sistema completo de gerenciamento de vendas de veículos, envolvendo:
-Desenvolvimento da interface Desktop para o perfil administrador
-Integração com banco de dados via Entity Framework
-Criação de APIs RESTful para comunicação entre sistema e banco
-Desenvolvimento de interface Web para o perfil vendedor
+- Desenvolvimento da interface Desktop para o perfil administrador
+- Integração com banco de dados via Entity Framework
+- Criação de APIs RESTful para comunicação entre sistema e banco
+- Desenvolvimento de interface Web para o perfil vendedor
 
 </br>
 
