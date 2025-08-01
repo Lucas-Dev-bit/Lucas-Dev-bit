@@ -29,8 +29,6 @@ Estou participando da criação de um sistema completo, com as seguintes respons
 
 ---
 
-⭐ *Obrigado por visitar meu perfil! Estou sempre em busca de novos desafios e oportunidades de aprendizado.*
-
 ## Tecnologias que uso
 <div style="display: inline-block"><br/>
     <img algin="center" alt="CSharp" src="https://img.shields.io/badge/CSharp-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -39,5 +37,8 @@ Estou participando da criação de um sistema completo, com as seguintes respons
     <img algin="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img algin="center" alt="sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img algin="center" alt="git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
+    
+    
+    ⭐ *Obrigado por visitar meu perfil! Estou sempre em busca de novos desafios e oportunidades de aprendizado.*
     
 </div>
