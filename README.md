@@ -1,23 +1,30 @@
 # 👋 Olá! Eu sou o Lucas!  
-💻 Desenvolvedor C# em formação | Foco em aplicações Desktop e Web
-
 ---
 
-🎯 Atualmente em formação como **Desenvolvedor C#**, com foco em aplicações **Desktop e Web**.  
-Tenho construído uma base sólida em:
-- Programação orientada a objetos (POO)
-- Banco de dados **SQL Server**
-- Criação de **APIs REST** com **ASP.NET Core**
+🎯💻🚀 Formação Full Stack com foco em desenvolvimento de software e APIs utilizando a plataforma .NET e o ecossistema C#.  
 
----
 
-🚀 **Projeto em destaque** – *Sistema de Gerenciamento de Vendas de Veículos*  
-Estou participando da criação de um sistema completo, com as seguintes responsabilidades:
+✅Linguagem & Paradigmas: Lógica de Programação, C# (.NET), Programação Orientada a Objetos (POO), Fundamentos de Estrutura de Dados (Listas, Laços e Coleções).
 
-✅ Desenvolvimento da interface **Desktop** para o perfil **administrador**  
-✅ Integração com banco de dados via **Entity Framework**  
-✅ Criação de **APIs RESTful** para comunicação entre sistema e banco  
-✅ Desenvolvimento de interface **Web** para o perfil **vendedor**
+Back-End & API: Desenvolvimento de API RESTful com ASP.NET Core (versão .NET 8.0), tratamento de requisições/respostas JSON.
+
+✅Persistência de Dados: Modelagem e Consultas em SQL Server, mapeamento Objeto-Relacional (ORM) utilizando Entity Framework Core.
+
+✅Front-End: Fundamentos de desenvolvimento Web com JavaScript (EcmaScript).
+
+✅Testes: Utilização da ferramenta Postman para validação e testes de endpoints de API.
+
+#Projeto Prático (Exemplo de Aplicação):#  
+
+✅Desenvolvimento de Sistema de Gerenciamento de Vendas de Veículos
+
+✅Projeto Full Stack aplicando arquitetura em camadas para gestão de dados de vendas:
+
+✅Administrativo (Backoffice): Construído em aplicação Desktop (Windows Forms), utilizando Entity Framework para CRUD (Create, Read, Update, Delete) direto com o banco de dados.
+
+✅Vendas (Front-End): Interface Web desenvolvida em ASP.NET Core com manipulação de DOM e lógica front-end via JavaScript.
+
+✅Arquitetura: A comunicação do módulo Vendedor com o Back-End é realizada integralmente através do consumo da API REST, garantindo desacoplamento entre as aplicações.
 
 ---
 
